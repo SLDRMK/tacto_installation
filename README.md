@@ -1,5 +1,5 @@
 # tacto_installation
-^[Here are some issues occured in the configuration of tacto envioronment.]
+Here are some issues occured in the configuration of tacto envioronment.
 1. torch, gym, pybulletX are not available in conda, but can be installed from pip
 2. some importing problems
 	- from collections import Mapping $\rightarrow$ from collections.abc import Mapping
