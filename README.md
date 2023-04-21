@@ -19,7 +19,7 @@ Here are some issues occured in the configuration of tacto envioronment.
 	- errors:
 		- pyglet.gl.ContextException: Could not create GL context
 		- Set the environment variable HYDRA_FULL_ERROR=1 for a complete stack trace.
-	- solution1:
+	- solution1-if-core-graphic-card-owned:
 		- nvidia-settings
 		- PRIME Profiles
 		- NVIDIA (Performance Mode)
